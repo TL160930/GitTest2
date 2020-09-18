@@ -2,3 +2,5 @@ abcd
 123
 add func1
 add func2
+add onclick1
+add onclick2
