@@ -399,7 +399,6 @@ add func3
     goProcessPage(url) {
       this.$router.push(url);
     },
-add func4
     // 进入流程节点
     goFlowNode(node) {
       let status = node.status;
