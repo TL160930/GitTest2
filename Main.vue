@@ -394,6 +394,7 @@ export default {
         this.$set(this.navigations, i, nav);
       }
     },
+add func3
     // 跳转到流程节点页
     goProcessPage(url) {
       this.$router.push(url);
