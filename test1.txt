@@ -7,4 +7,3 @@ add onclick2
 aaaaa
 bbbbbbbb
 777777777777777
-AAAAAAAAAAAAA
